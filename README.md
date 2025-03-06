@@ -69,7 +69,7 @@ TakPark is a comprehensive mobile application designed to revolutionize urban pa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/takpark.git
+   git clone https://github.com/coriumcake/takpark.git
    cd takpark
    ```
 
